@@ -16,4 +16,4 @@
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deep-8617&show_icons=true&locale=en&layout=compact" alt="deep-8617" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deep-8617&show_icons=true&locale=en" alt="deep-8617" /></p>
 </div>
-<img src="https://github.com/UpayanSarkar/UpayanSarkar/blob/main/Footer.jpg">
+<img src="https://github.com/Deep-8617/Deep-Kumar-Patra/blob/main/Footer.jpg">
