@@ -1,4 +1,4 @@
-<img src="https://github.com/Deep-8617/Deep-Kumar-Patra/blob/main/video1%20(1).gif" width="100%"><br>
+<img src="https://github.com/Deep-8617/Deep-8617/blob/main/frontside.gif" width="100%"><br>
 <img align="right" alt="Coding" width="400" src="https://github.com/Deep-8617/Deep-8617/blob/main/programmer2.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deep-8617&label=Profile%20views&color=0e75b6&style=flat" alt="deep-8617" /> </p>
 - 📝 I regularly write articles on https://www.geeksforgeeks.org/user/deepkumarpatra
