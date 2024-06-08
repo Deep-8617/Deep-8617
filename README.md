@@ -2,6 +2,7 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/Deep-8617/Deep-8617/blob/main/programmer2.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deep-8617&label=Profile%20views&color=0e75b6&style=flat" alt="deep-8617" /> </p>
 - 📝 I regularly write articles on https://www.geeksforgeeks.org/user/deepkumarpatra
+
 - 📫 How to reach me **patradeepkumar@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
